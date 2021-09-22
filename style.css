@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.header-img{
+    width: 72px;
+    height: 62px;
+}
+.form-control-bottom{
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+.form-control-top{
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+.fnt{
+    font-size: 15px !important;
+}
